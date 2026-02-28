@@ -1,0 +1,24 @@
+com.flavio.mideaplayer
+color black
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable pause
+drawable play
+drawable proxima
+drawable stop
+id btn_pause
+id btn_play
+id btn_proxima
+id btn_stop
+id main
+layout activity_main
+mipmap ic_launcher
+mipmap ic_launcher_round
+raw black
+raw nothing
+string app_name
+style Base_Theme_MideaPlayer
+style Theme_MideaPlayer
+xml backup_rules
+xml data_extraction_rules
